@@ -1,0 +1,4 @@
+1. Some important terminal command
+-> whoami - show the desktop name
+-> pwd - show on which folder you are working on
+-> ls - show the name of all the folder and the file available in the working folder
